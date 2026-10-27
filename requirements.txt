@@ -1,0 +1,7 @@
+rubka
+google-genai
+jdatetime
+qrcode
+pillow
+requests
+pytz
